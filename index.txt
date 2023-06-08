@@ -1,0 +1,4 @@
+l'utilisateur a 3 essai 
+l'utilisateur choisit entre x et y 
+si le numéro de l'utilisateur est le même -> "vous avez gagné"
+si le numéro est pas le bon " perdu, le numéro a trouver était....."
